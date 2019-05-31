@@ -1,0 +1,7 @@
+ 
+<?php
+void insert($data){
+
+
+}
+ ?>
